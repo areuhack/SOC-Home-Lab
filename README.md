@@ -27,7 +27,7 @@ hunting, and incident investigation.
 | ID | Investigation | Status |
 |---|---|---|
 | SOC-001 | PowerShell Execution Investigation | Completed |
-| SOC-002 | Repeated Failed Login Investigation | Planned |
+| SOC-002 | Repeated Failed Login Investigation | Completed |
 | SOC-003 | Account Creation Investigation | Planned |
 | SOC-004 | Persistence Investigation | Planned |
 | SOC-005 | Network Reconnaissance | Planned |
