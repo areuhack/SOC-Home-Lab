@@ -28,7 +28,7 @@ hunting, and incident investigation.
 |---|---|---|
 | SOC-001 | PowerShell Execution Investigation | Completed |
 | SOC-002 | Repeated Failed Login Investigation | Completed |
-| SOC-003 | Suspicious Account Creation and Privileged Group Assignment | Completed |
+| SOC-003 | Privileged account creation investigation | Completed |
 | SOC-004 | Persistence Investigation | Planned |
 | SOC-005 | Network Reconnaissance | Planned |
 
